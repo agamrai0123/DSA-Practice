@@ -26,7 +26,7 @@ public class HelperArray {
                 return new int[]{3, 3, 3, 4};
             case 6:
                 return generateRandomArray(10, 1, 50);  // Random array of 10 elements with values between 1 and 50
-                case 7:
+            case 7:
                 return new int[0]; // Edge case: empty array
             case 8:
                 return new int[]{42}; // Edge case: single element array
@@ -34,13 +34,15 @@ public class HelperArray {
                 return new int[]{-1, -2, -3, -4, -5}; // Edge case: array with negative numbers
             case 10:
                 return new int[]{Integer.MAX_VALUE, Integer.MIN_VALUE}; // Edge case: extreme values
+            case 11:
+                return new int[]{3, 2, 1, 4, 3, 6, 8};
             default:
                 throw new IllegalArgumentException("Invalid test case number.");
         }
     }
 
     // Method to generate a random array
-    private int[] generateRandomArray(int size, int min, int max) {
+    public int[] generateRandomArray(int size, int min, int max) {
         int[] arr = new int[size];
         Random rand = new Random();
         for (int i = 0; i < size; i++) {
