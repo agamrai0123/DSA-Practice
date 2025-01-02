@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/agamrai0123/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0268-missing-number](https://github.com/agamrai0123/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/agamrai0123/DSA-Practice/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/agamrai0123/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Linked List
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/agamrai0123/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/agamrai0123/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/agamrai0123/DSA-Practice/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -53,8 +55,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/agamrai0123/DSA-Practice/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/agamrai0123/DSA-Practice/tree/master/0268-missing-number) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/agamrai0123/DSA-Practice/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/agamrai0123/DSA-Practice/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/agamrai0123/DSA-Practice/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/agamrai0123/DSA-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
