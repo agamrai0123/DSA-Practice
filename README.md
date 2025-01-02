@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/agamrai0123/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/agamrai0123/DSA-Practice/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/agamrai0123/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Linked List
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/agamrai0123/DSA-Practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/agamrai0123/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/agamrai0123/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/agamrai0123/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/agamrai0123/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/agamrai0123/DSA-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
