@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/agamrai0123/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/agamrai0123/DSA-Practice/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/agamrai0123/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/agamrai0123/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Linked List
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/agamrai0123/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/agamrai0123/DSA-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/agamrai0123/DSA-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/agamrai0123/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/agamrai0123/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/agamrai0123/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
