@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/agamrai0123/DSA-Practice/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/agamrai0123/DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/agamrai0123/DSA-Practice/tree/master/2271-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/agamrai0123/DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/agamrai0123/DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
