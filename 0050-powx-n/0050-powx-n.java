@@ -9,11 +9,12 @@ class Solution {
         }
 
         if (n < 0) {
-            return 1.0 / binaryExp(x, -n);
+            x = 1/x;
+            n = -n;
         }
 
         if (n % 2 == 1) {
-            return x * binaryExp(x * x, (n - 1) / 2);
+            return x * binaryExp(x * x, n / 2);
         } else {
             return binaryExp(x * x, n / 2);
         }
