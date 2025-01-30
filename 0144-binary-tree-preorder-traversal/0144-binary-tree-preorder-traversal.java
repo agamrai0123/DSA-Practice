@@ -19,6 +19,7 @@ class Solution {
         preorder(root, list);
         return list;
     }
+
     public void preorder(TreeNode root, List<Integer> list){
         if(root == null) return;
         list.add(root.val);
