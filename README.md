@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/agamrai0123/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/agamrai0123/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/agamrai0123/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/agamrai0123/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/agamrai0123/DSA-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/agamrai0123/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/agamrai0123/DSA-Practice/tree/master/0136-single-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/agamrai0123/DSA-Practice/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/agamrai0123/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/agamrai0123/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/agamrai0123/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/agamrai0123/DSA-Practice/tree/master/0169-majority-element) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/agamrai0123/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/agamrai0123/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
