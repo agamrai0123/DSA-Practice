@@ -1,14 +1,14 @@
 class Solution {
     public int reverse(int x) {
-        int n = x;
-        int res = 0;
-        while(n != 0){
-            int d = n % 10;
-            int result = res * 10 + d;
-            if((result - d)/10 != res) return 0;
-            res = result;
-            n = n / 10;
+        int k = x;
+        int n = 0;
+        while(k != 0){
+            int d = k % 10;
+            int res = n * 10 + d;
+            if((res - d)/10 != n) return 0;
+            n = res;
+            k = k / 10;
         }
-        return res;
+        return n;
     }
 }
