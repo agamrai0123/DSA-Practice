@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/agamrai0123/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/agamrai0123/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/agamrai0123/DSA-Practice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/agamrai0123/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/agamrai0123/DSA-Practice/tree/master/0268-missing-number) |
 ## Stack
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/agamrai0123/DSA-Practice/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/agamrai0123/DSA-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/agamrai0123/DSA-Practice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/agamrai0123/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/agamrai0123/DSA-Practice/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/agamrai0123/DSA-Practice/tree/master/0455-assign-cookies) |
 ## Merge Sort
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/agamrai0123/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/agamrai0123/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/agamrai0123/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/agamrai0123/DSA-Practice/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/agamrai0123/DSA-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/agamrai0123/DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
