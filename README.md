@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/agamrai0123/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/agamrai0123/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/agamrai0123/DSA-Practice/tree/master/0268-missing-number) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/agamrai0123/DSA-Practice/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/agamrai0123/DSA-Practice/tree/master/0169-majority-element) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/agamrai0123/DSA-Practice/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/agamrai0123/DSA-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/agamrai0123/DSA-Practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/agamrai0123/DSA-Practice/tree/master/2032-largest-odd-number-in-string) |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/agamrai0123/DSA-Practice/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Greedy
 |  |
 | ------- |
